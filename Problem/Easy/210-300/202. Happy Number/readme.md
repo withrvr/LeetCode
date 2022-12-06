@@ -3,6 +3,7 @@
 - Easy
 - https://leetcode.com/problems/happy-number/
 - [LeetCode 75 --> Level 2 --> Day 1 --> Problem 1](https://leetcode.com/study-plan/leetcode-75/)
+- done on (3-Dec-2022)
 
 # Solution
 

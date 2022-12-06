@@ -2,6 +2,7 @@
 
 - Easy
 - https://leetcode.com/problems/two-sum/
+- done on (3-Dec-2022)
 
 # Solution
 

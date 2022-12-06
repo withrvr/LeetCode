@@ -3,6 +3,7 @@
 - Medium
 - https://leetcode.com/problems/removing-minimum-and-maximum-from-array/
 - [2-Array in Love-Babbar-Final-450](https://docs.google.com/spreadsheets/d/1-tJhKLvCRnb4KHBgQsDFLWERWeFerVZQaVP1v12COuQ/edit#gid=1773184282)
+- done on (5-Dec-2022)
 
 # Solution
 

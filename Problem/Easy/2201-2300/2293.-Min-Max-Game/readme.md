@@ -3,6 +3,7 @@
 - Easy
 - https://leetcode.com/problems/min-max-game/
 - [2-Array in Love-Babbar-Final-450](https://docs.google.com/spreadsheets/d/1-tJhKLvCRnb4KHBgQsDFLWERWeFerVZQaVP1v12COuQ/edit)
+- done on (4-Dec-2022)
 
 # Solution
 
