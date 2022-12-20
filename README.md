@@ -42,6 +42,8 @@ KEEP MOVING
 
 My Inspired Thought from Martin Luther,
 for new Coder/don't know shit trying CP
+...
+LIKE ME i guess
 ```
 
 <img src="https://www.myincrediblewebsite.com/wp-content/uploads/2017/01/MLK-on-Moving.jpg" height="500" />
