@@ -46,33 +46,13 @@ for new Coder/don't know shit trying CP
 LIKE ME i guess
 ```
 
-<img src="https://www.myincrediblewebsite.com/wp-content/uploads/2017/01/MLK-on-Moving.jpg" height="500" />
+<img src="./quote.jpg" height="500" />
 <!-- https://www.myincrediblewebsite.com/wp-content/uploads/2017/01/MLK-on-Moving.jpg -->
 
-# 📂 : Folder Structure
+<br>
 
-- Problem divided in Easy / Medium / Hard
-- then subdivided into
-- 100 problems in each folder
-- then 1 folder for each question
-- which will contain all different solution ... with explanation & links/ref
--
-- Problem
-  - Easy
-    - 1-100
-    - 101-200
-    - ...
-  - Medium
-    - 1-100
-    - 101-200
-      - 101
-      - 102
-      - ...
-      - 198
-      - 199
-      - 200
-    - ...
-  - Hard
-    - 1-100
-    - 101-200
-    - ...
+# 🧑‍💻: Developer Guide
+
+- . . . . . [Dev_Guide.md](./dev_guide.md)
+- who want to see / execute code
+- also folder Structure of this repo
