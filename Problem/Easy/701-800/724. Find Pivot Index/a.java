@@ -1,4 +1,4 @@
-// proof: https://leetcode.com/problems/find-pivot-index/submissions/879370428/
+// proof: https://leetcode.com/problems/find-pivot-index/submissions/879391028/
 
 // right as sum of array, from index 1
 // increase, decrease --> left, right
