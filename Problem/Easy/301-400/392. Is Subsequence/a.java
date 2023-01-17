@@ -9,6 +9,9 @@
 class Solution {
 	public boolean isSubsequence(String s, String t) {
 
+		// added extra cases
+		// if not added then also will be handled by logic / loop
+
 		if (s.length() > t.length())
 			return false;
 		else if (s.length() == 0)
