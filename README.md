@@ -7,12 +7,22 @@
 </a>
 <br>
 
+# 🔗: Links
+
+- Want to see my LeetCode Profile [@withrvr ... Click here](https://leetcode.com/withrvr/)
+- Most of the problems which i have solved are from
+  - [Official website study plan](https://leetcode.com/study-plan/)
+    - [LC75 / LeetCode 75](https://leetcode.com/study-plan/leetcode-75/?progress=xuumuo5t)
+  - [Grind 75 questions by @techinterviewhandbook](https://www.techinterviewhandbook.org/grind75)
+    - [same but more 169 questions ... version of it](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40)
+  - [neetcode.io blind 75 ... or all of it](https://neetcode.io/practice)
+    - [can see its roadmap (which i like to much) can see/follow website](https://neetcode.io/roadmap)
+
 # 🔥: Consistency is the key
 
 - Started solving problem on Leetcode
 - From 1-Dec-2022
 - At least 1 Problem 1 Day
-- Want to see my LeetCode Profile [Click here](https://leetcode.com/withrvr/)
 
 <!-- ```
 IF YOU CAN'T SOLVE-PROBLEM
