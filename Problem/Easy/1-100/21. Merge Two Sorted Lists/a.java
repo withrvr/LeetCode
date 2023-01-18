@@ -8,17 +8,14 @@
 // Time complexity: O(n + m)
 // Space complexity: O(1)
 
+// short cut
+
 // - in code this line means
-// ```
-// point = point.next = list1;
-// ```
+// point = point.next = list;
 
 // - nothing but this
-// ```java
-// point.next = list1;
-// point = list1;
-// ```
-// - short cut
+// point.next = list;
+// point = point.next;
 
 class ListNode {
 	int val;
@@ -39,8 +36,10 @@ class ListNode {
 
 class Solution {
 	public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+		// first node is dummy data node to start list
+		// thats y in return its res.next
 		ListNode res = new ListNode();
-		ListNode point = res;
+		ListNode point = res; // to traverse
 
 		while (true) {
 			if (list1 == null) {
