@@ -1,7 +1,7 @@
 // one pass
 
 // To Code : 15 min
-// Execution : 3 ms
+// Execution : 3 / 2 ms
 
 // Time complexity: O(n)
 // Space complexity: O(1)
