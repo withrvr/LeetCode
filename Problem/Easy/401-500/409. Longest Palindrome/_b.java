@@ -1,10 +1,4 @@
-// 💀: incorrect code
-
-// it will only add the most highest odd no
-// other will be ignored
-
-// but we can use the others odd number by making it even
-// by removing 1 from it
+// only code
 
 import java.util.HashMap;
 
@@ -12,24 +6,23 @@ class Solution {
 	public int longestPalindrome(String s) {
 		HashMap<Character, Integer> hm = new HashMap<>();
 
-		int count = 0;
-
 		for (int i = 0; i < s.length(); i++) {
 			Character ch = s.charAt(i);
 			hm.put(ch, hm.getOrDefault(ch, 0) + 1);
 		}
 
-		int max = 0;
+		int count = 0;
+		boolean odd_came = false;
 
 		for (int val : hm.values()) {
-			if (val % 2 == 0)
+			if (val % 2 == 0) {
 				count += val;
-			else if (val > max) {
-				count += (val - max);
-				max = val;
+			} else {
+				odd_came = true;
+				count += (val - 1);
 			}
 		}
 
-		return count;
+		return odd_came ? count + 1 : count;
 	}
 }
