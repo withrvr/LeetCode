@@ -3,14 +3,10 @@
 
 # all c files if any
 *.c
-
 # cpp files/folder for testing n running
-main*
 test*
-potd*
 foo*
 bar*
-template*
 
 # md files
 notes.md
