@@ -1,6 +1,11 @@
+// ASCII
+// int char conversion
 
 // To Code : 3 min
 // Execution : 0 ms
+
+// +32 ... as it make upper to low
+// if seen on ascii level
 
 // Time complexity: O(n)
 // Space complexity: O(n)
@@ -14,7 +19,7 @@ class Solution {
 			if (s_arr[i] >= 'A' && s_arr[i] <= 'Z') {
 
 				// System.out.println(s_arr[i] + " : " + (int) s_arr[i]);
-				// s_arr[i] = (chs_arrr) (a[i] - 'A' + 'a');
+				// s_arr[i] = (chs_arr) (a[i] - 'A' + 'a');
 				// s_arr[i] = (char) (s_arr[i] + 32);
 				s_arr[i] += 32;
 			}
