@@ -6,7 +6,13 @@
 
 # ✅: Solution
 
-- e.java ... is best for this particular question
+- a.java ... sort --> if same
+- b.java ... hash map --> no of occurrence
+- c.java ... add/sub ... occurrence .... (if !=0)
+- d.java ... add/sub ... occurrence .... (if !=0) ... using Hashmap
+-
+- e.java ... is **best** for this particular question
+-
 - Logic / Explained in individual file
 -
 - use at starting of code .... for/if diff len string

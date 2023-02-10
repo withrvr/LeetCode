@@ -9,5 +9,8 @@
 
 # ✅: Solution
 
-- a to e.java, a.py
-- Explained in individual file
+- a.java ... sets / length
+- b.java ... sets if came before
+- c.java ... set.add return usage ... **fastest**
+- d.java .... sort then check
+- e.java ... brute force

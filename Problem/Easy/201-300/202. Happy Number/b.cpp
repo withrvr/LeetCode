@@ -1,5 +1,7 @@
 // https://leetcode.com/problems/happy-number/submissions/853846641/
 
+// 4 ms
+
 class Solution
 {
 public:

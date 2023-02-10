@@ -7,6 +7,8 @@
 
 # Solution
 
+- use sets to find the duplicate ... instead of list/vector
+-
 - [a.cpp](./a.cpp)
   - using vector to store next numbers in new array to track the elements
   - using find() from algorithum lib
@@ -18,3 +20,12 @@
   - using sets instead of vector
   - {{9.line }} ... while (num) // num > 0, num!=0
   - (more improved to check if num have become 0)
+
+
+- c.java
+  - slow/fast method
+- _d.java .... **fastest/best logic**
+  - https://leetcode.com/problems/happy-number/solutions/421162/happy-number/
+  - Approach 3: Hardcoding the Only Cycle (Advanced)
+  - in which it will eventually come
+-
