@@ -1,21 +1,33 @@
+# 💪: Badge
+
+<img width="100" alt="programming-skills-1 gif badge" src="./screenshots/programming-skills-1/gif.gif" />
+
+<!-- <img width="100" alt="programming-skills-1 gif badge" src="./screenshots/programming-skills-1/png.png" /> -->
+
+<br>
+
 # ⚡: Stats
 
-[![LeetCode badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fwithrvr&logo=leetcode&logoColor=yellow)](https://leetcode.com/withrvr/)
+<!-- [![LeetCode badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fwithrvr&logo=leetcode&logoColor=yellow)](https://leetcode.com/withrvr/) -->
 
 <a href="https://leetcode.com/withrvr/">
   <img alt="LeetCode Activity Chart" src="https://leetcard.jacoblin.cool/withrvr?ext=activity"/>
 </a>
+
 <br>
 
 # 🔗: Links
 
 - Want to see my LeetCode Profile [@withrvr ... Click here](https://leetcode.com/withrvr/)
 - Most of the problems which i have solved are from
-  - [Official website study plan](https://leetcode.com/study-plan/)
+  - ### [Official Website Study Plan](https://leetcode.com/study-plan/)
     - [LC75 / LeetCode 75](https://leetcode.com/study-plan/leetcode-75/?progress=xuumuo5t)
-  - [Grind 75 questions by @techinterviewhandbook](https://www.techinterviewhandbook.org/grind75)
+    - [Programming Skills 1](https://leetcode.com/study-plan/programming-skills/?progress=x824bvmv)
+    - [SQL 1](https://leetcode.com/study-plan/sql/?progress=x3n6zbih)
+    - .... etc
+  - ### [Grind 75 questions by @techinterviewhandbook](https://www.techinterviewhandbook.org/grind75)
     - [same but more 169 questions ... version of it](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40)
-  - [neetcode.io blind 75 ... or all of it](https://neetcode.io/practice)
+  - ### [neetcode.io blind 75 ... or all of it](https://neetcode.io/practice)
     - [can see its roadmap (which i like to much) can see/follow website](https://neetcode.io/roadmap)
 
 # 🔥: Consistency is the key
