@@ -4,6 +4,28 @@
 - https://leetcode.com/problems/fibonacci-number/
 - done on (4-Dec-2022)
 
+
+```
+fibonacci Number logic
+
+REFER: 70. Climbing Stairs
+
+to understand more
+
+all possible solution there
+
+```
+
+```
+if what to see how for 3 number it works
+
+1137. N-th Tribonacci Number
+
+but all possible solution is shown in
+`70. Climbing Stairs` only
+
+```
+
 # Solution
 
 - [a.py](./a.py)

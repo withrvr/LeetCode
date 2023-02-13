@@ -1,5 +1,5 @@
-// b.java
-// short version
+// _b.java
+// better version
 
 class Solution {
 	private int arr[] = new int[46];
@@ -10,10 +10,10 @@ class Solution {
 	}
 
 	public int climbStairs(int n) {
-		if (arr[n] != 0)
-			return arr[n];
+		// if not calculated before
+		if (arr[n] == 0)
+			arr[n] = climbStairs(n - 1) + climbStairs(n - 2);
 
-		arr[n] = climbStairs(n - 1) + climbStairs(n - 2);
 		return arr[n];
 	}
 }
