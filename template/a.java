@@ -1,6 +1,4 @@
-// logic
-
-// explanation
+// logic, explanation
 
 // To Code : ? min
 // Execution : ? ms
