@@ -23,6 +23,8 @@
   - not changing arr value
 - _c ..... **fastest / cleanest**
   - using start as 0, 0
+  - for each
+  - _c.py ... more clean and to understand more better
 
 
 ## % 2 ... logic
