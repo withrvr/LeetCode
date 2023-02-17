@@ -5,7 +5,7 @@
 
 # List Followed
 
-- https://leetcode.com/study-plan/sql/
+- https://leetcode.com/study-plan/sql/?progress=x3n6zbih
 -
 - https://leetcode.com/list/oi5isepg/
 
