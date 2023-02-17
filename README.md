@@ -1,7 +1,14 @@
 # 💪: Badge
 
-<img width="100" alt="programming-skills-1 gif badge" src="./screenshots/programming-skills-1/gif.gif" />
-<img width="100" alt="sql-1 gif badge" src="./screenshots/sql-1/gif.gif" />
+<img
+  width="100"
+  alt="programming-skills-1 || first badge"
+  src="./screenshots/programming-skills-1/gif.gif"
+/> <img
+  width="100"
+  alt="sql-1 || second badge"
+  src="./screenshots/sql-1/gif.gif"
+/>
 
 # ⚡: Stats
 
