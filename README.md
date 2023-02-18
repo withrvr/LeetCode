@@ -33,6 +33,7 @@
     - [same but more 169 questions ... version of it](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40)
   - ### [neetcode.io blind 75 ... or all of it](https://neetcode.io/practice)
     - [can see its roadmap (which i like to much) can see/follow website](https://neetcode.io/roadmap)
+  - ### [leetcode contest](https://leetcode.com/contest/)
 
 # 🔥: Consistency is the key
 
