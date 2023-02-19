@@ -10,7 +10,6 @@
 # ✅: Solution
 
 - a
-  - easy
   - first logic
   - explain
 - b
