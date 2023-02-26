@@ -1,8 +1,13 @@
-# vscode
+# --- CP Extension : CPH Judge ---
+
+*.cph
+*.prob
+
+# --- VS Code ---
 .vscode
 
-# all c files if any
-*.c
+# --- Other ---
+
 # cpp files/folder for testing n running
 test*
 foo*
@@ -11,64 +16,11 @@ bar*
 # md files
 notes.md
 
-# Prerequisites
-*.d
+# --- JAVA ---
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# --- all java related files ---
-
-Solution.java
-
-# Compiled class file
 *.class
 
-# Log file
-*.log
+# --- C / CPP ---
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-
+*.c
+*.exe
