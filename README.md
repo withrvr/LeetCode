@@ -8,6 +8,10 @@
   width="100"
   alt="sql-1 || second badge"
   src="./screenshots/sql-1/gif.gif"
+/> <img
+  width="100"
+  alt="leetcode75-1 || third badge"
+  src="./screenshots/leetcode75-1/gif.gif"
 />
 
 # ⚡: Stats
