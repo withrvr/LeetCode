@@ -5,6 +5,10 @@
 <!-- - https://neetcode.io/practice -->
 <!-- - https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40 -->
 
+
+- my solution article on leetcode
+  - https://leetcode.com/problems/linked-list-cycle-ii/solutions/3072415/0-ms-only-how/?orderBy=most_votes
+
 # ✅: Solution
 
 - a.java ... **best logic** / explain / understand / first logic

@@ -43,7 +43,8 @@ but all possible solution is shown in
   - mysirji idea which i like so much
   - which i have done before :: https://www.sololearn.com/compiler-playground/cH0clF0215wO
 
-- [a.py](./a.py)
+- [b.py](./b.py)
+  - **fastest logic**
   - little complex as compare to a.py
   - to understand ( but runs 1 condition less )
   - returns a .. be care full

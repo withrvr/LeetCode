@@ -8,4 +8,6 @@
 # ✅: Solution
 
 - a.java ... **fastest logic** / recursion
+  - __a.java short version
+  - 
 - b.java ... iterate using stack

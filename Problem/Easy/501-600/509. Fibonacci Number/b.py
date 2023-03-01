@@ -1,12 +1,9 @@
-# https://leetcode.com/problems/fibonacci-number/submissions/854027679/
-
 class Solution:
-    def fib(self, n: int) -> int:
-        a = 0
+    def fib(self, n):
+        a = -1
         b = 1
 
-        for i in range(n):
-            a, b = b, a+b
-            print(f"{i}: {a}")
+        for _ in range(n + 1):
+            a, b = b, a + b
 
-        return a
+        return b

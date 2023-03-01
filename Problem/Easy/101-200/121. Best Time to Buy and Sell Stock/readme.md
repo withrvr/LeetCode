@@ -10,3 +10,5 @@
 
 - Logic / Explained ... in individual file
 - d.java ... best logic
+  - with little explain
+  - _d.java short version

@@ -10,4 +10,5 @@
 - b.java ... explain / understand / first logic
 - c.java ... different logic / out of the box
 - e.java ... **fastest logic**
+  - e3.java ... more compress version
 

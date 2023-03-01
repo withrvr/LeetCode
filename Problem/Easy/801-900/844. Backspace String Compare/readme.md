@@ -5,6 +5,12 @@
 <!-- - https://neetcode.io/practice -->
 - https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40
 
+---
+
+- Offical solution to understand more
+  - https://leetcode.com/problems/backspace-string-compare/editorial/?envType=study-plan&id=level-1
+
+
 # ✅: Solution
 
 - a.java ... explain / understand / first logic
@@ -13,3 +19,6 @@
   - can do using this also
   - not done by me
   - https://leetcode.com/problems/backspace-string-compare/solutions/136876/backspace-string-compare/
+- c.py
+  - possible solution
+  - didnt understand fully

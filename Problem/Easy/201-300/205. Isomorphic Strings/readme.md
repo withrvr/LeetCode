@@ -11,3 +11,7 @@
   - futuristic
 - b.java .... fast
   - problem solution
+- c
+  - also char take less space
+  - also no need to set default value
+  - **fastest**
